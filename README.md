@@ -1,6 +1,28 @@
-# main_project
-For final year project
+# ***Geo-Spatial Data Analysis Model (GEO-DAM)***
+<p align="center">
 
-pnpm install
+## Team members:
 
-pnpm run
+**1.** [ASWIN JOSEPH](https://github.com/aswin-j)<br/>
+**2.** [ANUSHA JOSEPH](https://github.com/anushajoseph)<br/>
+**3.** [EMIL ERINJERY](https://github.com/emiltonyerinjery)<br/>
+**4.** [ALFIN JOHNSON]()<br/>
+
+## How to configure:
+**1.** Clone this repository to your local drive
+
+```shell
+$ git clone https://github.com/aswin-j/main_project
+```
+
+**2.** Installing pnpm in terminal
+
+```shell
+$ pnpm install
+```
+
+**3.** Open Terminal and Run 
+
+```shell
+$ pnpm start
+```
