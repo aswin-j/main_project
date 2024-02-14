@@ -1,4 +1,4 @@
-# ***Geo-Spatial Data Analysis Model (GEO-DAM)***
+# ***(GEO-DAM)***
 <p align="center">
 
 ## Team members:
