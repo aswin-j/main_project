@@ -1,4 +1,4 @@
-# ***(GEO-DAM)***
+# GEO-DAM
 <p align="center">
 
 ## Team members:
