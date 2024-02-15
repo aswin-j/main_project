@@ -12,7 +12,7 @@
 **1.** Clone this repository to your local drive
 
 ```shell
-$ git clone https://github.com/aswin-j/main_project
+$ git clone https://github.com/aswin-j/main_project/tree/main/React-frontend
 ```
 
 **2.** Installing pnpm in terminal
